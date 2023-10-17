@@ -1,0 +1,5 @@
+key:   # put your openai api key here. Should look like this 'sk-l08...'
+
+translate_to: hausa  # Can translate to Nigerian languages such as pidgin, igbo, hausa, yoruba, etc.
+
+# Only pidgin produces an audio output
